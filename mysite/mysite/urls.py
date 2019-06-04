@@ -16,7 +16,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
-# 我的web项目,1
+# 我的web项目
 urlpatterns = [
     path('admin/', admin.site.urls),
 ]
